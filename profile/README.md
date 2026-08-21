@@ -1,4 +1,4 @@
-![O1](./splash.png)
+![O1](./splash.gif)
 
 # O1
 
