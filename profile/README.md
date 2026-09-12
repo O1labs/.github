@@ -1,4 +1,4 @@
-![O1](./splash-small.gif)
+![O1](./splash.gif)
 
 # O1
 
